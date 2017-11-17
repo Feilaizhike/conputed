@@ -15,7 +15,7 @@ a {text-decoration: none;color: #000;}
 .color{width: 0.1rem;height: 0.1rem;background: #494949;border: 1px solid #999;display: inline-block;margin:0 -0.05rem;}
 
 .outPut_con{width: 2.0rem;height:0.6rem;margin: 0.1rem auto;border: 1px solid #2f2f2f;border-radius: 5px;background: #d6dddb;}
-.outPut_con .Expression{width: 2.5rem;height:0.3rem;text-indent: 0.1rem;line-height: 1.5;}
+.outPut_con .Expression{max-width: 2.5rem;height:0.3rem;text-indent: 0.1rem;line-height: 1.5;}
 .outPut_con .result{max-width: 2.4rem;height:0.3rem;text-align: right;line-height: 1.5;margin-right: 0.1rem;}
 
 .wrapper{width: 2.0rem;padding: 0.1rem; margin: 0 auto;border: 1px solid #ccc;border-radius: 0 0 10px 10px;
